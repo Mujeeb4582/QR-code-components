@@ -15,6 +15,7 @@ This repository has been established with the goal of providing a platform to pr
 ## Overview
 
 ### Screenshot
+![all-devices-black](https://user-images.githubusercontent.com/109666020/216780552-cda32e26-3b1f-451e-b1bb-21a8edaeaecf.png)
 
 ### Links
 
@@ -50,4 +51,3 @@ This repository has been established with the goal of providing a platform to pr
 
 This project is [MIT](https://github.com/Mujeeb4582/QR-code-components/blob/dev/LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
