@@ -15,11 +15,12 @@ This repository has been established with the goal of providing a platform to pr
 ## Overview
 
 ### Screenshot
+
 ![all-devices-black](https://user-images.githubusercontent.com/109666020/216780552-cda32e26-3b1f-451e-b1bb-21a8edaeaecf.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [click_me](https://mujeeb4582.github.io/QR-code-components/)
 
 ### 🛠 Built with
 
@@ -50,4 +51,3 @@ This repository has been established with the goal of providing a platform to pr
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/Mujeeb4582/QR-code-components/blob/dev/LICENSE) licensed.
-
